@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa18/class/ee106a-aay/ros_workspaces/lab3/lab3_baxter/install
+
+Name: joint_ctrl
+Description: Description of joint_ctrl
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cc/ee106a/fa18/class/ee106a-aay/ros_workspaces/lab3/lab3_baxter/install/lib 
+Requires: 
